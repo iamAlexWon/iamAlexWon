@@ -8,8 +8,8 @@
 
 ### Language
 ![Python Badge](https://img.shields.io/badge/Python-235A97?style=flat-square&logo=Python&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 ![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white)
@@ -25,7 +25,7 @@
  Badge](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=Google%20Tag%20Manager&logoColor=white)
 ![Google Optimize Badge](https://img.shields.io/badge/Google%20Optimize-B366F6?style=flat-square&logo=Google%20Optimize&logoColor=white)
   
-![Nest Badge](https://img.shields.io/badge/Nest.Js-cc0000?style=flat-square&logo=NestJs&logoColor=white)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
 ![Nest Badge](https://img.shields.io/badge/Nest.Js-cc0000?style=flat-square&logo=NestJs&logoColor=white)
 
 ### Database
