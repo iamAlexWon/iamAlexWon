@@ -17,7 +17,7 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
-![Google Analytics Badge](https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white)
+![Google Analytics Badge](https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black)
 ![Nest Badge](https://img.shields.io/badge/Nest.Js-cc0000?style=flat-square&logo=NestJs&logoColor=white)
 
