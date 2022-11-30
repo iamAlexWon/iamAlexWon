@@ -12,6 +12,8 @@
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
+![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white)
+
 
 ### IT - Analytical
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
