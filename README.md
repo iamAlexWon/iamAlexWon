@@ -17,7 +17,7 @@
 ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=Google%20Analytics&logoColor=white)
 ![Google Tag Manager
  Badge](https://img.shields.io/badge/Google%20Tag%20Manager
--246FDB?style=flat-square&logo=Google%20Tag%20Manager&logoColor=black)
+-246FDB?style=flat-square&logo=Google%20Tag%20Manager&logoColor=white)
 ![Nest Badge](https://img.shields.io/badge/Nest.Js-cc0000?style=flat-square&logo=NestJs&logoColor=white)
 
 ### Database
