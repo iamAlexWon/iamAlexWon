@@ -1,5 +1,6 @@
 <h1> DONGHYUN 'ALEX' WON  </h1>
-🎓 M.S. in Business Analytics, University of South Carolina (2022.08 ~ 2023.05) \n
+🎓 M.S. in Business Analytics, University of South Carolina (2022.08 ~ 2023.05)
+
 🎓 M.S. in Fintech, Sungkyunkwan University (2021.03 ~ 2023.02)
 
 
