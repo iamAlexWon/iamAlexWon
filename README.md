@@ -37,7 +37,7 @@
  # Contact Me!
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devsungmin)](https://hits.seeyoufarm.com)
-[![Resume](https://img.shields.io/badge/Resume-Green?style=flat-square&link=https://rune-paradox-1da.notion.site/DONGHYUN-ALEX-WON-0ea8b44145f64f8a91b02ba7372183bc](https://rune-paradox-1da.notion.site/DONGHYUN-ALEX-WON-0ea8b44145f64f8a91b02ba7372183bc)
+[![Portfolio](https://img.shields.io/badge/Notion-000000?style=flat-square&link=https://rune-paradox-1da.notion.site/DONGHYUN-ALEX-WON-0ea8b44145f64f8a91b02ba7372183bc](https://rune-paradox-1da.notion.site/DONGHYUN-ALEX-WON-0ea8b44145f64f8a91b02ba7372183bc)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhalexwon@gmail.com)](mailto:dhalexwon@gmail.com)
 
 </div>
