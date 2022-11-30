@@ -8,7 +8,7 @@
 ### Language
 ![Python Badge](https://img.shields.io/badge/Python-235A97?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/R-235A97?style=flat-square&logo=R&logoColor=white)
+![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 
 
 ### Web Framework
