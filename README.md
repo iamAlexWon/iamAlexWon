@@ -29,24 +29,14 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## Career
-- [Kurly](https://www.kurly.com/shop/main/index.php) | Java Backend Developer (2022.03.14 ~ ing)
-- [Dacon Inc.](https://dacon.io) | Backend Developer (2021.08.17 ~ 2022.02.25)
-- [(주)감성한스푼](https://gamspoon.com) | Backend Developer (2021.05.07 ~ 2021.06.04)
+
 
 ## Activity
-- 🦁 [LikeLion 6th](https://www.likelion.net/univ) (2018.03 ~ 2018.12)
-- 💻 [System Software Lab.](https://sites.google.com/view/cbnu-ssrlab/home?authuser=0) (2019.03 ~ 2021.02)
-- <🖌> [Depromeet 10th](https://www.depromeet.com/) (2021.09 ~ 2021.12)
-- <🖌> [Depromeet 11th](https://www.depromeet.com/) (2022.01~ 2022.07)
+
  # Contact Me!
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devsungmin)](https://hits.seeyoufarm.com)
-[![GitHub](http://img.shields.io/badge/GitHub-Black?style=flat-square&logo=github&link=https://github.com/devsungmin)](https://github.com/devsungmin)
-[![Blog](http://img.shields.io/badge/-My%20Blog-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.sungmin.dev/)](https://blog.sungmin.dev/)
-[![StudyLog](http://img.shields.io/badge/-StudyLog-blue?style=flat-square&logo=Blogger&logoColor=white&link=https://www.sungmin.dev/)](https://www.sungmin.dev/)
-[![Resume](https://img.shields.io/badge/Resume-Green?style=flat-square&link=https://about.sungmin.dev/)](https://about.sungmin.dev/)
-[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/devsunmgmin/)](https://www.facebook.com/devsungmin/)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/devsungmin/)](https://www.instagram.com/devsungmin/)
-[![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim@sungmin.dev)](mailto:kim@sungmin.dev)
+[![Resume](https://img.shields.io/badge/Resume-Green?style=flat-square&link=https://rune-paradox-1da.notion.site/DONGHYUN-ALEX-WON-0ea8b44145f64f8a91b02ba7372183bc](https://rune-paradox-1da.notion.site/DONGHYUN-ALEX-WON-0ea8b44145f64f8a91b02ba7372183bc)
+[![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhalexwon@gmail.com)](mailto:dhalexwon@gmail.com)
 
 </div>
