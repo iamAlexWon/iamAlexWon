@@ -20,7 +20,8 @@
  Badge](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=Google%20Tag%20Manager&logoColor=white)
 ![Google Optimize Badge](https://img.shields.io/badge/Google%20Optimize-B366F6?style=flat-square&logo=Google%20Optimize&logoColor=white)
 
-![Google Ads Badge](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=Google%20Ads&logoColor=white)
+![Google Ads Badge](https://img.shields.io/badge/Google%20Ads-458CF5?style=flat-square&logo=Google%20Ads&logoColor=white)
+![Google Search Console Badge](https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=flat-square&logo=Google%20Search%20Console&logoColor=white)
   
 ![Nest Badge](https://img.shields.io/badge/Nest.Js-cc0000?style=flat-square&logo=NestJs&logoColor=white)
 ![Nest Badge](https://img.shields.io/badge/Nest.Js-cc0000?style=flat-square&logo=NestJs&logoColor=white)
